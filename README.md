@@ -10,7 +10,7 @@ Me chamo João Victor, atualmente estou cursando programação, ja obtive conhec
 e agora estarei inciando o módulo de Java Script e React
 
 
-Conecte-se Comigo:
+*Conecte-se Comigo:*
 
   <a href="https://www.instagram.com/joao_vcl16"/>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
